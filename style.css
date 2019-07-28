@@ -1,0 +1,27 @@
+.color{
+    background-image: element(img/img1jgp);
+    
+}
+.uno{
+    font: none;
+    margin: 0px;
+
+}
+
+.titulo{
+    text-decoration: none;
+    margin: 0%;
+    padding: 20px;
+    color: #0A1505;
+    font: oblique bold 400% cursive;
+    text-align: center;
+}
+.dos{
+    margin: 55px;
+}
+.cuatro{
+    text-decoration: none;
+    margin: 0%;
+    padding: 0%;
+
+}
